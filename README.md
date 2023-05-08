@@ -7,13 +7,14 @@ zu teilen um dann Crazy Stuff zu machen.
 ## Allgemein
 
 ### Riseup Pad für Uns
-https://pad.riseup.net/p/sibu-it-keep
+- https://pad.riseup.net/p/sibu-it-keep
+
 ### Hilfreiche Links
-https://roadmap.sh/frontend
-https://code.visualstudio.com/
+- https://roadmap.sh/frontend
+- https://code.visualstudio.com/
 
 
-### Erstes Treffen
+## Erstes Treffen
 Wir haben uns HTML,CSS,Javascript angeschaut und wollen es nochmal jeder für sich bis nächstes mal anschauen. Sinan bereitet bis nächstes mal ein Fall Beispiel vor.
 
 ```

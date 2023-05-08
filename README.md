@@ -65,8 +65,8 @@ Wir haben uns HTML,CSS,Javascript angeschaut und wollen es nochmal jeder für si
 
 #### Tutorials
 **HTML**
-https://www.w3schools.com/html/default.asp
+- https://www.w3schools.com/html/default.asp
 **CSS**
-https://www.w3schools.com/css/default.asp
+- https://www.w3schools.com/css/default.asp
 **Javascript**
-https://www.w3schools.com/js/default.asp
+- https://www.w3schools.com/js/default.asp

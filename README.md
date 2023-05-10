@@ -13,7 +13,7 @@ zu teilen um dann Crazy Stuff zu machen.
 - https://roadmap.sh/frontend
 - https://code.visualstudio.com/
 
-## Treffen 
+## Protokolle 
 - [Erstes-Treffen-Protokoll](1-meetup.md)
 
 

@@ -67,11 +67,11 @@ Wir haben uns HTML,CSS,Javascript angeschaut und wollen es nochmal jeder für si
 ## Tutorials
 ### Frontend Tutorials
 **HTML**
-https://www.w3schools.com/html/default.asp
+- https://www.w3schools.com/html/default.asp
 **CSS**
-https://www.w3schools.com/css/default.asp
+- https://www.w3schools.com/css/default.asp
 **Javascript**
-https://www.w3schools.com/js/default.asp
+- https://www.w3schools.com/js/default.asp
 
 
 ### Backend Tutorials
@@ -79,9 +79,9 @@ https://www.w3schools.com/js/default.asp
 #### Datenbanken
 
 **Relationale Datenbanken**
-https://studyflix.de/informatik/relationale-datenbanken-600
+- https://studyflix.de/informatik/relationale-datenbanken-600
 
 **SQL**
-https://code.tutsplus.com/articles/sql-for-beginners--net-8200
-https://code.tutsplus.com/de/articles/sql-fur-anfanger-teil-2--net-8274
-https://code.tutsplus.com/de/articles/sql-for-beginners-part-3-database-relationships--net-8561
+- https://code.tutsplus.com/articles/sql-for-beginners--net-8200
+- https://code.tutsplus.com/de/articles/sql-fur-anfanger-teil-2--net-8274
+- https://code.tutsplus.com/de/articles/sql-for-beginners-part-3-database-relationships--net-8561

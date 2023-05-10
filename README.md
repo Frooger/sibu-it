@@ -64,19 +64,20 @@ Wir haben uns HTML,CSS,Javascript angeschaut und wollen es nochmal jeder für si
 </html>
 ```
 
-## Tutorials
-### Frontend Tutorials
+## Frontend Tutorials
 **HTML**
 - https://www.w3schools.com/html/default.asp
+
 **CSS**
 - https://www.w3schools.com/css/default.asp
+
 **Javascript**
 - https://www.w3schools.com/js/default.asp
 
 
-### Backend Tutorials
+## Backend Tutorials
 
-#### Datenbanken
+### Datenbanken
 
 **Relationale Datenbanken**
 - https://studyflix.de/informatik/relationale-datenbanken-600

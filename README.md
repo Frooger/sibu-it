@@ -66,11 +66,11 @@ Wir haben uns HTML,CSS,Javascript angeschaut und wollen es nochmal jeder für si
 
 ## Tutorials
 ### Frontend Tutorials
-HTML
+**HTML**
 https://www.w3schools.com/html/default.asp
-CSS
+**CSS**
 https://www.w3schools.com/css/default.asp
-Javascript
+**Javascript**
 https://www.w3schools.com/js/default.asp
 
 

@@ -14,7 +14,7 @@ zu teilen um dann Crazy Stuff zu machen.
 - https://code.visualstudio.com/
 
 ## Treffen 
-[a relative link](1-meetup.md)
+- [Erstes-Treffen-Protokoll](1-meetup.md)
 
 
 ## Frontend Tutorials

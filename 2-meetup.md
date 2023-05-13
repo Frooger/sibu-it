@@ -7,7 +7,7 @@
 - Aufgabe für Heute
     - Wir erstellen ein Deckel Buch :)
     - Eine Liste mit Vorname, Nachname, etc. in einer Tabellen Struktur
-    - Die Zweite Spalte der Tabelle soll sich unterscheiden von der ersten.
+    - Die Zweite Zeile der Tabelle soll sich unterscheiden von der ersten.
     - Wenn über die Spalte mit der Maus gezeigt wird soll diese heller werden.
         - Dafür braucht ihr folgende CSS Anweisung
 ```

@@ -15,7 +15,12 @@ zu teilen um dann Crazy Stuff zu machen.
 
 ## Protokolle 
 - [Erstes-Treffen-Protokoll](1-meetup.md)
+- [Zweites-Treffen-Protokoll](2-meetup.md)
 
+## General Good to Know
+
+**AES Verschlüsselung**
+- https://www.skribble.com/de-de/blog/aes-verschlusselung/
 
 ## Frontend Tutorials
 **HTML**
@@ -39,3 +44,5 @@ zu teilen um dann Crazy Stuff zu machen.
 - https://code.tutsplus.com/articles/sql-for-beginners--net-8200
 - https://code.tutsplus.com/de/articles/sql-fur-anfanger-teil-2--net-8274
 - https://code.tutsplus.com/de/articles/sql-for-beginners-part-3-database-relationships--net-8561
+
+

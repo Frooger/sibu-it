@@ -31,7 +31,9 @@ zu teilen um dann Crazy Stuff zu machen.
 
 **Javascript**
 - https://www.w3schools.com/js/default.asp
-
+**Angular**
+  Sharing Data between Components
+- https://www.youtube.com/watch?v=I317BhehZKM&ab_channel=Fireship
 
 ## Backend Tutorials
 
